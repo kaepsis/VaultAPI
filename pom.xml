@@ -42,7 +42,7 @@ Vault currently supports the following: Permissions 3, PEX, GroupManager, bPerms
 				<version>3.14.0</version>
 				<configuration>
 					<source>1.8</source>
-					<target>1.8</target>
+					<target>17</target>
 				</configuration>
 			</plugin>
 		</plugins>
