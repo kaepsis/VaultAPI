@@ -10,9 +10,9 @@ How to include the API with Maven:
 </repositories>
 <dependencies>
     <dependency>
-        <groupId>com.github.MilkBowl</groupId>
+        <groupId>com.github.kaepsis</groupId>
         <artifactId>VaultAPI</artifactId>
-        <version>1.7</version>
+        <version>ennamo</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>
@@ -24,7 +24,7 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 dependencies {
-    compileOnly "com.github.MilkBowl:VaultAPI:1.7"
+    compileOnly "com.github.kaepsis:VaultAPI:ennamo"
 }
 ```
 
